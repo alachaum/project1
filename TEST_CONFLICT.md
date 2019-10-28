@@ -1,2 +1,2 @@
-Blo
-Some foo content
+- Blo
+- Some foo content
